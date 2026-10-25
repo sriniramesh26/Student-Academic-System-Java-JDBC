@@ -1,0 +1,34 @@
+# Compiled Java Class Files
+*.class
+
+# SQLite Database Files
+*.db
+*.db-journal
+
+# Logs
+*.log
+
+# IDE & Editor Files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Exclude unrelated Bolt React starter files from Java repository
+.bolt/
+ai/
+src/
+supabase/
+.env
+package.json
+package-lock.json
+eslint.config.js
+index.html
+postcss.config.js
+tailwind.config.js
+tsconfig.json
+tsconfig.app.json
+tsconfig.node.json
+vite.config.ts
+node_modules/
+dist/
